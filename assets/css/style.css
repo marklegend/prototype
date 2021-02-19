@@ -751,6 +751,7 @@ section {
   display: inline-block;
   line-height: 0;
   transition: 0.3s;
+  border-radius: 5em;
 }
 
 .services .service-box h3 {
