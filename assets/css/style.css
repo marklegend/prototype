@@ -745,12 +745,12 @@ section {
 .services .service-box .icon {
   font-size: 36px;
   padding: 40px 20px;
+  border-radius: 50px;
   position: relative;
   margin-bottom: 25px;
   display: inline-block;
   line-height: 0;
   transition: 0.3s;
-  border-radius: 6em;
 }
 
 .services .service-box h3 {
